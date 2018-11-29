@@ -26,7 +26,7 @@ import java.util.Date;
 import java.util.List;
 import java.util.Locale;
 import java.util.ArrayList;
-//更新しました.
+//更新しました
 
 public class FileLogger implements GnssListener {
 
