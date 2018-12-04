@@ -352,7 +352,7 @@ private TextView mAccSpecView;
                             .setPositiveButton("OK", new DialogInterface.OnClickListener() {
                                 public void onClick(DialogInterface dialog, int whichButton) {
                                     //入力した文字をトースト出力する
-                                    if(editView.getText().toString().indexOf("aiueo1") != -1){
+                                    if(editView.getText().toString().indexOf("") != -1){
                                         Toast.makeText(getContext(),
                                                 "Research mode turned ON",
                                                 Toast.LENGTH_LONG).show();
